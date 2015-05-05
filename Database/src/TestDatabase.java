@@ -14,11 +14,11 @@ public class TestDatabase
 {
 	//	JDBC driver name and database URL
 	private static String driverName  =  "com.mysql.jdbc.Driver";
-	private static String dbURL  =  "jdbc:mysql://localhost:3306/dev_yannick";
+	private static String dbURL  =  "jdbc:mysql://localhost:3100/dev_yannick";
 	
 	//	Credentials for database access
 	private static final String USERNAME  =  "root";
-	private static final String PASSWORD = "nUMe96GtZ_ymfFF2Gaj_bQzlwohOb0GAiLak5z431wgCByGqW0iB_w2SPa0ql7OFHIlgcgrKbxfg6YbYsR30CjroSM8DNdqcEjivOheIH1lWm3p06UIEGax4ptJj6xqJ";
+	private static final String PASSWORD = "bxfJ";
 
 	public static void main(String[] args) 
 	{	
