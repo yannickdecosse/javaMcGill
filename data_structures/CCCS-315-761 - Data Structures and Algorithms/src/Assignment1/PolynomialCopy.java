@@ -1,3 +1,4 @@
+package Assignment1;
 /*
 	Name:			Yannick Decosse
 	McGill ID:		260551160

@@ -1,3 +1,4 @@
+package Assignment2;
 /*
  * Name:		Yannick Decosse
  * Course ID:	CCCS-301-751 - Programming Techniques 2
