@@ -1,4 +1,3 @@
-package Week0;
 /*
 	Name:			Yannick Decosse
 	McGill ID:		260551160
@@ -7,6 +6,8 @@ package Week0;
 	Date:				May 2, 2015
 	Subject:		Testing MySQL Database Connection
  */
+
+package Week0;
 
 import java.sql.*;
 import java.util.Scanner;
