@@ -66,7 +66,7 @@ public class Airport extends JFrame
 		mainFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
 		//	Adding an image to JPanel
-		ImageIcon image = new ImageIcon("src\\Question3\\icon.gif");
+		ImageIcon image = new ImageIcon("Assignment4\\Question6\\icon.gif");
 		JLabel label = new JLabel(image, JLabel.CENTER);
 		JPanel visual = new JPanel(new BorderLayout());
 		visual.add(label, BorderLayout.CENTER);
