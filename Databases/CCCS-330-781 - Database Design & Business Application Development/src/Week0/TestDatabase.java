@@ -1,3 +1,4 @@
+package Week0;
 /*
 	Name:			Yannick Decosse
 	McGill ID:		260551160
