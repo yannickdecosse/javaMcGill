@@ -13,8 +13,6 @@ public class testForm {
 
 	public static void main(String[] args) {
 		//	Create Validation Form Object
-		new validationForm();
-		
+		new validationForm();		
 	}
-
 }
