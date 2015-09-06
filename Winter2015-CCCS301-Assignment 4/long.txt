@@ -1,0 +1,21 @@
+Create a Java application from 3 java source files called Program.java, Student.java and
+Classroom.java.
+
+In the source file Program.java is a single class called Program with a single static main
+method. This main method will have the only user interface. The other java files are not
+permitted to perform any I/O. In other words, only the main method is permitted to write
+to the screen or read from the keyboard.
+
+Program.java is the only class permitted to instantiate objects. The other two java files
+are not permitted to instantiate anything.
+
+Write a main method that asks the user for the size of a classroom and then the number of
+students they would like to add into that classroom. Next, instantiate a classroom object
+using the classroom size the user wanted. Then, using a loop, instantiate one Student
+object for each student the user wanted and populate its class variables by prompting the
+user for information. Put these student objects into the classroom. To verify that you did
+this correctly, your main method will then display all the student information from the
+classroom. Format this output in an easy to read way. The output must be from objects
+returned to your main method by the classroom object. Your program will then end.
+In the source file Student.java is a single class called Student. Each student class stores
+the information for a single student. Everything in this class is private except for the API.
