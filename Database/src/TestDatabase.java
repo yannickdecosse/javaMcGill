@@ -1,10 +1,10 @@
 /*
 	Name:			Yannick Decosse
 	McGill ID:		260551160
-	Course ID:		
-	Instructor: 	
-	Date:			May 2, 2015
-	Subject:	Testing MySQL Database Connection
+	Course ID:	CCCS-330-781 - Database Design & Business Application Development	
+	Instructor: 	Katthar Daou
+	Date:				May 2, 2015
+	Subject:		Testing MySQL Database Connection
  */
 
 import java.sql.*;
